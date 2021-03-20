@@ -1,0 +1,124 @@
+
+
+#wrapper{
+  width:960px;
+  margin:10px auto;
+  background-color:rgba(255,255,255,0.8);
+}
+
+#content{
+  width:940px;
+  margin: 0px 10px;
+  float:left;
+  background-color:rgba(255,255,255,0.8)
+}
+#sidebar{
+  width:300px;
+  float:right;
+  padding:0px 0px 0px 10px;
+
+}
+#main{
+  width:500;
+  margin:0px 50px 0px 0px;
+}
+
+body {
+  font-family: "Carter One", Arial, sans-serif;
+  font-size: 16px;
+  line-height:24px;
+  color: #000000;
+  font-weight:normal;
+
+  background-image:url(../images/coffeefrittata.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:fixed;
+
+}
+
+.intro{
+  color:#ff0000;
+  width:450px;
+  font-style: italic;
+  position:relative;
+  left:30px;
+
+}
+h1,h2 {
+  font-family:"IM Fell Great Primer SC", Georgia, Times, serif;
+
+}
+
+h1 {
+
+  text-transform:uppercase;
+  font-size:20px;
+  text-align:center;
+}
+h2 {
+  font-size:15px;
+  color:#ff0000;
+}
+table {
+  width:960px;
+  color: #ffffff;
+  background-color:#111111;
+}
+th{
+  padding: 10px;
+  text-transform:uppercase;
+
+}
+tr{
+  text-align:center;
+}
+ul{
+  list-style-type:none;
+  padding:0;
+}
+ol{
+  list-style-type:none;
+  padding:0;
+}
+.credits{
+  font-size:12px;
+  font-style:italic;
+  text-align:right;
+  color:#ff0000;}
+
+  }
+p{
+text-transform:none;
+}
+
+}
+li{
+    margin:10px 0px 0px 0px;
+    text-align:left;
+    color:#000000;}
+  figure
+   img {
+     float:right;
+     width: 300px;
+     height:300px;
+     border: 2px solid #d6d6d6;
+    }
+    figcaption{
+      float:right;
+      padding: 10px 10px 10px 100px;
+
+    }
+
+    .footer{
+      width:200px;
+      font-size:10px;
+      font-style:italic;
+      height:58px;
+      margin-top: 50px;
+
+    }
+    .footer a{
+      color:#ff0000;
+      clear:both;
+    }
